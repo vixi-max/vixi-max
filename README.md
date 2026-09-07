@@ -148,6 +148,7 @@ Deployment
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vixi-max&theme=tokyonight&hide_border=true" />
 
+<img src="./assets/engineering-activity.png" width="850"/>
 </div>
 
 ---
