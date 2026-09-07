@@ -139,12 +139,6 @@ Deployment
 
 **Stack:** `GitLab CI/CD` `GitLab Runner` `Docker` `Linux` `Nginx` `SSL`
 
----
-
-## 📊 GitHub Activity
-
-
-<img src="https://raw.githubusercontent.com/vixi-max/vixi-max/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 
 ---
 
