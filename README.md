@@ -143,11 +143,10 @@ Deployment
 
 ## 📊 GitHub Activity
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vixi-max&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vixi-max&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vixi-max&show_icons=true&hide_border=true)
 
 </div>
 
