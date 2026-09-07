@@ -144,12 +144,11 @@ Deployment
 ## 📊 GitHub Activity
 
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vixi-max&theme=tokyonight&hide_border=true" />
-
-<img src="./assets/engineering-activity.png" width="850"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vixi-max/vixi-max/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vixi-max/vixi-max/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vixi-max/vixi-max/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
